@@ -17,6 +17,8 @@ This project is perfect for:
 📺 Watch Full YouTube Video:
 https://youtu.be/pY6pJURhloY
 
+[![Zepto SQL Data Analytics Project](YOUR_THUMBNAIL_IMAGE_LINK_HERE)](https://youtu.be/pY6pJURhloY)
+
 ---
 
 # 📌 Project Overview
